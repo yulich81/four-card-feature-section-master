@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Github](https://github.com/yulich81/four-card-feature-section-master)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
@@ -44,6 +44,7 @@ Users should be able to:
 - CSS Grid
 - Mobile-first workflow
 
+*Additional functionality*: hover effect on the cards.
 
 
 ## Author
